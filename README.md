@@ -11,8 +11,9 @@ Windows Server 2016
 # ビルド方法
 __Linux__  
 各サンプルのMakefileを使用してビルド  
+ *レシートOCR解析サンプルのビルドにのみImageMagick (MagickWand) が必要  
 __Windows__  
-各サンプルのソリューション ファイルファイル(.sln)をVisual Studioから開いてビルド  
+各サンプルのソリューションファイル (.sln) を使用してビルド (Visual Studio)  
 
 # Samples
 |Module|Description|
