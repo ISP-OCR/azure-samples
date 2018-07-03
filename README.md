@@ -3,10 +3,10 @@
 
 # サポートOS
 __Linux__  
-- CentOS 6.9  
-- Ubuntu 16.04  
+CentOS 6.9  
+Ubuntu 16.04  
 __Windows__  
-- Windows Server 2016  
+Windows Server 2016  
 
 # ビルド方法
 __Linux__  
